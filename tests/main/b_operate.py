@@ -23,7 +23,7 @@ class BokeCase(unittest.TestCase):
     def test_04Del(self):
         test_dels.Del_Page(self.driver)
 
-    def test_05(self):
+    def test_051(self):
         test_dels.Del_Page(self.driver)
 
 
