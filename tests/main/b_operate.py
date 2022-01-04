@@ -23,5 +23,9 @@ class BokeCase(unittest.TestCase):
     def test_04Del(self):
         test_dels.Del_Page(self.driver)
 
+    def test_05(self):
+        test_dels.Del_Page(self.driver)
+
+
 if __name__ == '__main__':
     unittest.main()
